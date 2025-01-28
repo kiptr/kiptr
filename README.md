@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/mythologica404/">Mythologica</a></h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mythologica404)
-[![Website Badge](https://img.shields.io/badge/Website-e4405f?style=flat-square&logo=google-chrome&logoColor=white)](https://webnyaiki.skom.id)
-[![Twitter Badge](https://img.shields.io/badge/-Discord-3b5998?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/212187647945342977)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/kutaktaupun/)
-[![Telegram Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/mrizky.saputra.39)
-
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mythologica404.mythologica404&style=flat-square&color=0088cc)
 
 I'm currently studying Computer Science 🎓 from Lambung Mangkurat University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️.
