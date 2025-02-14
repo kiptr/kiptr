@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/mythologica404/">Mythologica</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/kiptr/">kiptr</a></h1>
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mythologica404.mythologica404&style=flat-square&color=0088cc)
 
@@ -10,10 +10,10 @@ Like My Work?
 
 <p align="center">
   <a href="https://trakteer.id/m-rizky-saputra-bwtqs/tip" target="_blank">
-    <img width="18%" alt="Support me with Trakteer" src="https://raw.githubusercontent.com/Mythologica404/Mythologica404/main/.resources/support-trakteer.png"/>
+    <img width="18%" alt="Support me with Trakteer" src="https://raw.githubusercontent.com/kiptr/kiptr/main/.resources/support-trakteer.png"/>
   </a>
   <a href="https://saweria.co/mythologica" target="_blank">
-      <img width="18%" alt="Support me with Saweria" src="https://raw.githubusercontent.com/Mythologica404/Mythologica404/main/.resources/support-saweria.png"/>
+      <img width="18%" alt="Support me with Saweria" src="https://raw.githubusercontent.com/kiptr/kiptr/main/.resources/support-saweria.png"/>
   </a>
 </p>
 
@@ -22,8 +22,8 @@ Like My Work?
 ### Talking about Personal Stuffs:
 
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Mythologica404).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/Mythologica404/Mythologica404/issues/1)! I am happy to help.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/kiptr).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/kiptr/kiptr/issues/1)! I am happy to help.
 - 📫 &nbsp; How to reach me: darkark404@gmail.com.
 
 ### My Absolute Favorites:
@@ -57,8 +57,8 @@ Like My Work?
 
 ### Github Stats:
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mythologica404&count_private=true&show_icons=true&include_all_commits=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mythologica404&hide=TeX&layout=compact&theme=highcontrast)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kiptr&count_private=true&show_icons=true&include_all_commits=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiptr&hide=TeX&layout=compact&theme=highcontrast)
 
 #
 
